@@ -22,7 +22,7 @@
     <li><strong>Sprite Rendering:</strong> Implements sprite rendering techniques for 2D elements.</li>
     <li><strong>Animation Skinning:</strong> Includes animation skinning for lifelike character movements and accurate shadows when implemnting shadowmapping.</li>
     <li><strong>Shadow Mapping:</strong> The game incorporates advanced shadow mapping techniques to enhance the visual experience and create realistic lighting and shadows.</li>
-    <li><strong>Simple Post-Processing:</strong> Provides post-processing effects, such as blur, when the game is paused for improved visual aesthetics.</li>
+    <li><strong>Simple Post-Processing:</strong> Provides post-processing effects, such as dark filter, when the game is paused for improved visual aesthetics.</li>
     <li><strong>Text Rendering:</strong> Implements text rendering for in-game UI elements.</li>
     <li><strong>Skybox:</strong> A skybox has been integrated to provide an immersive environment.</li>
     <li><strong>Water Shader:</strong> The project showcases a bespoke water shader that dynamically emulates the playful characteristics of cartoon-style water.</li>
