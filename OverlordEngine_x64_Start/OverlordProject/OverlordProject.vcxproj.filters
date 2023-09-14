@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="MainGame.cpp" />
+    <ClCompile Include="stdafx.cpp" />
+    <ClCompile Include="Scenes\Week 3\MinionScene.cpp" />
+    <ClCompile Include="Materials\ColorMaterial.cpp" />
+    <ClCompile Include="Prefabs\SpherePrefab.cpp" />
+    <ClCompile Include="Prefabs\TorusPrefab.cpp" />
+    <ClCompile Include="Prefabs\CubePrefab.cpp" />
+    <ClCompile Include="Scenes\Week 3\ComponentTestScene.cpp" />
+    <ClCompile Include="Scenes\Assignment_W03\PongScene.cpp" />
+    <ClCompile Include="Scenes\Week 4\ModelTestScene.cpp" />
+    <ClCompile Include="Scenes\Week 4\UberMaterialScene.cpp" />
+    <ClCompile Include="Scenes\Week 4\GeometryShaderScene.cpp" />
+    <ClCompile Include="Scenes\Week 5\SoftwareSkinningScene_1.cpp" />
+    <ClCompile Include="Prefabs\BoneObject.cpp" />
+    <ClCompile Include="Scenes\Week 5\SoftwareSkinningScene_2.cpp" />
+    <ClCompile Include="Scenes\Week 5\SoftwareSkinningScene_3.cpp" />
+    <ClCompile Include="Scenes\Week 6\HardwareSkinningScene.cpp" />
+    <ClCompile Include="Materials\DiffuseMaterial_Skinned.cpp" />
+    <ClCompile Include="Materials\GeometryMaterial.cpp" />
+    <ClCompile Include="Materials\UberMaterial.cpp" />
+    <ClCompile Include="Materials\DiffuseMaterial.cpp" />
+    <ClCompile Include="Scenes\Week 4\SpriteTestScene.cpp" />
+    <ClCompile Include="Scenes\Week 7\FontTestScene.cpp" />
+    <ClCompile Include="Scenes\Week 7\PickingScene.cpp" />
+    <ClCompile Include="Scenes\Week 8\ShadowMappingScene.cpp" />
+    <ClCompile Include="Scenes\Week Final\WindwakerScene.cpp" />
+    <ClCompile Include="Materials\Shadow\DiffuseMaterial_Shadow.cpp" />
+    <ClCompile Include="Materials\Shadow\DiffuseMaterial_Shadow_Skinned.cpp" />
+    <ClCompile Include="Prefabs\Character.cpp" />
+    <ClCompile Include="Scenes\Week 7\CharacterScene.cpp" />
+    <ClCompile Include="Scenes\Week 9\ParticleScene.cpp" />
+    <ClCompile Include="Materials\WaveMaterial.cpp" />
+    <ClCompile Include="Materials\ZeldaWaveMaterial.cpp" />
+    <ClCompile Include="Scenes\Week 10\PostProcessingScene.cpp" />
+    <ClCompile Include="Materials\Post\PostGrayscale.cpp" />
+    <ClCompile Include="Materials\Post\PostBlur.cpp" />
+    <ClCompile Include="Materials\SkyBoxMaterial.cpp" />
+    <ClCompile Include="Prefabs\SkyBoxPrefab.cpp" />
+    <ClCompile Include="Prefabs\Link.cpp" />
+    <ClCompile Include="Prefabs\Barrel.cpp" />
+    <ClCompile Include="SoundManager\SoundEffectManager.cpp" />
+    <ClCompile Include="Scenes\Week Final\TitleScreenScene.cpp" />
+    <ClCompile Include="Scenes\Week Final\LoadingScreenScene.cpp" />
+    <ClCompile Include="Materials\Post\PostDim.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MainGame.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="Scenes\Week 3\MinionScene.h" />
+    <ClInclude Include="Materials\ColorMaterial.h" />
+    <ClInclude Include="Prefabs\SpherePrefab.h" />
+    <ClInclude Include="Prefabs\TorusPrefab.h" />
+    <ClInclude Include="Prefabs\CubePrefab.h" />
+    <ClInclude Include="Scenes\Week 3\ComponentTestScene.h" />
+    <ClInclude Include="Scenes\Assignment_W03\PongScene.h" />
+    <ClInclude Include="Scenes\Week 4\ModelTestScene.h" />
+    <ClInclude Include="Scenes\Week 4\UberMaterialScene.h" />
+    <ClInclude Include="Scenes\Week 4\GeometryShaderScene.h" />
+    <ClInclude Include="Scenes\Week 5\SoftwareSkinningScene_1.h" />
+    <ClInclude Include="Prefabs\BoneObject.h" />
+    <ClInclude Include="Scenes\Week 5\SoftwareSkinningScene_2.h" />
+    <ClInclude Include="Scenes\Week 5\SoftwareSkinningScene_3.h" />
+    <ClInclude Include="Scenes\Week 6\HardwareSkinningScene.h" />
+    <ClInclude Include="Materials\DiffuseMaterial.h" />
+    <ClInclude Include="Materials\DiffuseMaterial_Skinned.h" />
+    <ClInclude Include="Materials\GeometryMaterial.h" />
+    <ClInclude Include="Materials\UberMaterial.h" />
+    <ClInclude Include="Scenes\Week 4\SpriteTestScene.h" />
+    <ClInclude Include="Scenes\Week 7\FontTestScene.h" />
+    <ClInclude Include="Scenes\Week 7\PickingScene.h" />
+    <ClInclude Include="Scenes\Week 8\ShadowMappingScene.h" />
+    <ClInclude Include="Scenes\Week Final\WindwakerScene.h" />
+    <ClInclude Include="Materials\Shadow\DiffuseMaterial_Shadow.h" />
+    <ClInclude Include="Materials\Shadow\DiffuseMaterial_Shadow_Skinned.h" />
+    <ClInclude Include="Prefabs\Character.h" />
+    <ClInclude Include="Scenes\Week 7\CharacterScene.h" />
+    <ClInclude Include="Scenes\Week 9\ParticleScene.h" />
+    <ClInclude Include="Materials\WaveMaterial.h" />
+    <ClInclude Include="Materials\ZeldaWaveMaterial.h" />
+    <ClInclude Include="Scenes\Week 10\PostProcessingScene.h" />
+    <ClInclude Include="Materials\Post\PostGrayscale.h" />
+    <ClInclude Include="Materials\Post\PostBlur.h" />
+    <ClInclude Include="Materials\SkyBoxMaterial.h" />
+    <ClInclude Include="Prefabs\SkyBoxPrefab.h" />
+    <ClInclude Include="Prefabs\Link.h" />
+    <ClInclude Include="TextureUtils.h" />
+    <ClInclude Include="Prefabs\Barrel.h" />
+    <ClInclude Include="SoundManager\SoundEffectManager.h" />
+    <ClInclude Include="Scenes\Week Final\TitleScreenScene.h" />
+    <ClInclude Include="Scenes\Week Final\LoadingScreenScene.h" />
+    <ClInclude Include="Materials\Post\PostDim.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Resources\SpriteFonts\Consolas_32_0.dds" />
+    <Image Include="Resources\SpriteFonts\WindWaker_32_0.dds" />
+    <Image Include="Resources\SpriteFonts\WindWaker_64_0.dds" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SpriteFonts\Consolas_32.fnt" />
+    <None Include="Resources\SpriteFonts\WindWaker_32.fnt" />
+    <None Include="Resources\SpriteFonts\WindWaker_64.fnt" />
+  </ItemGroup>
+</Project>
