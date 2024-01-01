@@ -26,6 +26,10 @@ This project showcases various technical features, all implemented in C++ within
 
 Thank you for checking out the Wind Waker Remake project. See you next time!
 
+## Check it on my portfolio
+
+https://rafiosmanuportfoliox10mx7.wordpress.com/windwaker-remake/
+
 ## Watch the Demo
 
 For a demonstration of the Wind Waker Remake in action, watch this video:
